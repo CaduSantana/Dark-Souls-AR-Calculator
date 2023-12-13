@@ -6,8 +6,6 @@ A calculator for the AR of weapons in Dark Souls. This is a proof of concept to 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
