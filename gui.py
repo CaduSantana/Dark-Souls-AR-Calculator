@@ -1,6 +1,5 @@
 import sys
 from ortools.linear_solver import pywraplp
-import pulp as pl
 from PySide6.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QDoubleSpinBox, QTextEdit
 
 def on_button_clicked():
